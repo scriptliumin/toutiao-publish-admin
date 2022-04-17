@@ -53,7 +53,7 @@
         updateAticle,
         getAticle
     } from "@/api/article";
-    import { ElementTiptap } from 'element-tiptap';
+    //import { ElementTiptap } from 'element-tiptap';
 
     export default {
         name: "PublishIndex",
